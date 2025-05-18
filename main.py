@@ -8,7 +8,7 @@ class Person:
         return self.name
 
 
-# Student class inheriting from Personxcxccxcvxvxvxvxvxvxvxvxzvxva ddf
+# Student class inheriting from Personxcxccxcvxvxvxvxvxvxvxvxzvxva ddfa
 class Student(Person):
     def __init__(self, name, age, roll_number):
         super().__init__(name, age)
